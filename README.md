@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.65.76
+IP  158.160.065.076
 
 Frontend https://places.nomoreparties.sbs
 
