@@ -8,7 +8,7 @@
 
 ###  Установка и запуск приложения в локальном репозитории:
 
-* **git clone** https://github.com/HelgaMilne/react-mesto-api-full.git - клонировать данный репозиторий,
+* **git clone** https://github.com/HelgaMilne/react-mesto-api-full.git - клонировать репозиторий на свое устройство,
 * **npm install** - установить зависимости в папке frontend и в папке backend,
 * **npm run dev** - запустить приложение в режиме разработчика в папке backend, используя  порт 3000,
 * **npm run start** - запустить приложение в режиме разработчика в папке frontend, используя порт 3001 (или любой другой, отличный от 3000),
