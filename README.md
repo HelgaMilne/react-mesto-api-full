@@ -27,7 +27,9 @@
 * сборка webpack
 * React
 * бэкенд Node.js + Express + MongoDB
-
+  
+#### Ссылка на макет
+https://disk.yandex.ru/d/aZdOkzaVbhGFYw
 
 ####  Ссылки на проект
 
