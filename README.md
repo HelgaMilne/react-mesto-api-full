@@ -34,6 +34,11 @@
 * сборка webpack
 * React
 * бэкенд Node.js + Express + MongoDB
+
+###  Статус проекта:
+<img src="https://github.com/HelgaMilne/HelgaMilne/blob/main/src/images/passed_code_review.svg" alt="badge" width="160px">
+
+-----
   
 ####  Ссылки на проект
 
